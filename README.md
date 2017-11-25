@@ -1,0 +1,2 @@
+# iMoney
+• Developed iOS App using Firebase(NoSQL) to manage data and helped users to keep track of their money. • Set up Firebase and featured user authentication, photo storage and location distribution displaying. • Used iOS-Charts library to visualize the records and displayed them in a pie chart. • Wrote code for basic manipulation on records and enabled displaying by date range and by category.
